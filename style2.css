@@ -1,0 +1,49 @@
+        body {
+            background-image: url(https://c4.wallpaperflare.com/wallpaper/69/527/783/bukidnon-philippines-wallpaper-preview.jpg);
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-position: center;
+            background-size: cover;
+        }
+
+        .header {
+            background: #ff0e0e;
+            background: linear-gradient(lightblue, lightgreen);
+            background: -webkit-linear-gradient(lightblue, lightgreen);
+            background: -moz-linear-gradient(lightblue, lightgreen);
+            text-align: center;
+            height:55   px;
+            opacity: 1;
+        }
+
+        .footer {
+            background: #ff0e0e;
+            background: linear-gradient(lightblue, lightgreen);
+            background: -webkit-linear-gradient(lightblue, lightgreen);
+            background: -moz-linear-gradient(lightblue, lightgreen);
+            height:200px;
+            font-family: monospace;
+            opacity: 1;
+        }
+
+        .section {
+            display:flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap:10px;
+            opacity: .9;
+
+        }
+
+        .description {
+                background-color: lightgray;
+                border:3px solid black;
+                border-radius: 8px;
+                width:400px;
+                padding:10px;
+        }
+
+        .img {
+            width:370px;
+            height: 260px;
+        }
